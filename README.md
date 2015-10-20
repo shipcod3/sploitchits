@@ -1,5 +1,6 @@
 # sploitchits
-My collection of exploit development skeletons for fuzzing, overwriting the stack, etc. 
+My collection of exploit development skeletons for fuzzing, overwriting the stack, directory traversal, remote code execution, etc. 
 
-- @shipcod3 - follow me @ Twitter
+# author
+@shipcod3
 
