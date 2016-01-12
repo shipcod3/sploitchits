@@ -1,4 +1,5 @@
-#!/usr/bin/python
+# espfind.py - exploit scratch for finding ESP register
+# author : @shipcod3
  
 import socket
 import sys
