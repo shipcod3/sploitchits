@@ -1,4 +1,5 @@
-#!/usr/bin/python
+# fuzz.py used for checking an overflow condition
+# author : @shipcod3
  
 import socket
 import sys
