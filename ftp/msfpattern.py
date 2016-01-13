@@ -1,4 +1,5 @@
-#!/usr/bin/python
+# espfind.py - exploit scratch for determining the offset and where the EIP is overwritten
+# author : @shipcod3
  
 import socket
 import sys
