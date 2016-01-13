@@ -1,3 +1,6 @@
+# xmlrpc.py - exploit scratch for attacking xmlrpc
+# author : @shipcod3
+
 import sys, os, xmlrpclib
 
 sys.stderr = sys.stdout
