@@ -1,0 +1,3 @@
+<!DOCTYPE root [
+    <!ENTITY stuff SYSTEM ".">
+]><root>&stuff;</root>
